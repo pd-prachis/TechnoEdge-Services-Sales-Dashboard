@@ -2,7 +2,7 @@
  
 🚀 Live Dashboard: https://app.powerbi.com/groups/me/reports/ce442b90-0f1c-496c-97d7-ad677fb568b3/9a856e30042368430c0c?experience=power-bi
 
-📄 PDF Report: Download PDF
+📄 PDF Report: https://github.com/pd-prachis/TechnoEdge-Services-Sales-Dashboard/blob/main/TechnoEdge%20Services%20Sales%20Dashboard.pdf
 
 📌 Problem Statement
 TechnoEdge Learning Services needed a clear, actionable view of its sales performance across regions, categories, and time periods to identify growth opportunities, optimize inventory, and boost profitability.
